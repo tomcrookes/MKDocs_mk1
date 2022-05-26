@@ -1,0 +1,10 @@
+site_name: MkDocs Test
+
+
+nav:
+  - Home: index.md
+  - Creating a New Project: new-project.md
+  - Setting Themes: themes.md
+  - Text Formatting: formatting.md
+
+theme: readthedocs
