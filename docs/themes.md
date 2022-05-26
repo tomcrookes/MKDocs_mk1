@@ -4,11 +4,10 @@ There are two build-in themes for mkdocs:
 
 `mkdocs`: built as a custom Bootstrap theme is the defualt option that supports almost every feature of mkdocs.
 
-++PICTURE HERE++ 
+<img src = "../img/mkdocs-format.png" />
 
 `readthedocs`: offers the same restricted feature set as its parent theme. 
-
-**PICTURE HERE**
+<img src = "../img/readthedocs-format.png" />
 
 
 ## Setting the theme 
