@@ -1,4 +1,5 @@
 site_name: MkDocs Test
+site_url: htttp://www.testing.com
 
 
 nav:
@@ -6,5 +7,8 @@ nav:
   - Creating a New Project: new-project.md
   - Setting Themes: themes.md
   - Text Formatting: formatting.md
+  - Admonitions: admonition.md
 
 theme: readthedocs
+markdown_extensions:
+  - admonition
